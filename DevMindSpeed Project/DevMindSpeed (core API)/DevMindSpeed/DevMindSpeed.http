@@ -1,0 +1,6 @@
+@DevMindSpeed_HostAddress = http://localhost:5020
+
+GET {{DevMindSpeed_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
